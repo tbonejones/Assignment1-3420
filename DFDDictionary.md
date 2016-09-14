@@ -1,10 +1,10 @@
 DFD Dictionary
 
-Developer: The employee who procures/compiles Software Package and, after it checked for OSS Licenses, then modifies it for use 
+Developer: The employee who procures/compiles Software Package and, after it is checked for OSS Licenses, then modifies it for use 
 within the company.
 
 Manage Software Package for License Scanning (MSPLC): The process that accepts the Software Package from the Developer and forwards it 
-to the Scan for Licences process. This process also receives the Software Package License results and sends those results to the OSSFS
+to the Scan for Licences process. This process also receives the SPLR and sends those results to the OSSFS
 Database for storage.
 
 Manager: An upper-level executive at the company who may wish to browse the SPLR.
@@ -19,8 +19,8 @@ the results of the scan to MSPLC.
 
 Software Package: The cumulative lines of code from all of the software files in the package procurred by the Developer.
 
-Software Package License Query (SPLQ): A request to view SPLR.
+Software Package License Query (SPLQ): A request to recieve the SPLR.
 
-Software Package License Results (SPLR): The results from the Scan for Licenses process. SPLR is the Software Package and data 
-stating which parts of the Software Package were found to have an OSS License.
+Software Package License Results (SPLR): The results from the Scan for Licenses process. SPLR is the Software Package itself as well 
+as data stating which parts of the Software Package were found to have an OSS License.
 
