@@ -1,14 +1,14 @@
 # DFD Dictionary
 
 ### Developer: 
-&emsp; &emsp; The employee who procures/compiles Software Package and, after it is checked for OSS Licenses, then modifies it for 
+&emsp; &emsp; The employee who procures/compiles Software Package and, after it is checked for OSS Licenses, then modifies it for<br/>
 &emsp; &emsp; use within the company.
 
-### Manage Software Package for License Scanning (MSPLC): The process that accepts the Software Package from the Developer and 
-forwards it to the Scan for Licences process. This process also receives the SPLR and sends those results to the OSSFS
-Database for storage.
+### Manage Software Package for License Scanning (MSPLC): 
+&emsp; &emsp; The process that accepts the Software Package from the Developer and forwards it to the Scan for Licences process. <br/> &emsp; &emsp; This process also receives the SPLR and sends those results to the OSSFS Database for storage.
 
-### Manager: An upper-level executive at the company who may wish to browse the SPLR.
+### Manager: 
+&emsp; &emsp; An upper-level executive at the company who may wish to browse the SPLR.
 
 ### OSS Found in Software (OSSFS): The Database that stores the SPLR.
 
