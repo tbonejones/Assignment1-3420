@@ -1,26 +1,30 @@
 # DFD Dictionary
 
 ### Developer: 
-&emsp; &emsp; The employee who procures/compiles Software Package and, after it is checked for OSS Licenses, then modifies it for<br/>
-&emsp; &emsp; use within the company.
+&emsp; &emsp; The employee who procures/compiles Software Package and, after it is checked for OSS Licenses, then modifies it for use <br/>
+&emsp; &emsp; within the company.
 
 ### Manage Software Package for License Scanning (MSPLC): 
-&emsp; &emsp; The process that accepts the Software Package from the Developer and forwards it to the Scan for Licences process. <br/> &emsp; &emsp; This process also receives the SPLR and sends those results to the OSSFS Database for storage.
+&emsp; &emsp; The process that accepts the *Software Package* from the Developer and forwards it to the Scan for Licences process. This process <br/> &emsp; &emsp; also receives the SPLR and sends those results to the OSSFS Database for storage.
 
 ### Manager: 
 &emsp; &emsp; An upper-level executive at the company who may wish to browse the SPLR.
 
-### OSS Found in Software (OSSFS): The Database that stores the SPLR.
+### OSS Found in Software (OSSFS): 
+&emsp; &emsp;The Database that stores the SPLR.
 
-### Query for Full List of Packages and Corresponding License Information (QFLPCLI): The process that accepts a SPLQ, sends it to the 
-OSSFS Database, receives the SPLR, and forwards the SPLR to the Manager's computer so it can be conveniently browsed.
+### Query for Full List of Packages and Corresponding License Information (QFLPCLI): 
+&emsp; &emsp;The process that accepts a SPLQ, sends it to the OSSFS Database, receives the SPLR, and forwards the SPLR to the Manager's <br/> &emsp; &emsp; computer so it can be conveniently browsed.
 
-### Scan for Licenses: The process that accepts a Software Package and scans it for open source software licensing language and then sends the results of the scan to MSPLC.
+### Scan for Licenses: 
+&emsp; &emsp;The process that accepts a Software Package and scans it for open source software licensing language and then sends the results <br/> &emsp; &emsp;of the scan to MSPLC.
 
-### Software Package: The cumulative lines of code from all of the software files in the package procurred by the Developer.
+### Software Package: 
+&emsp; &emsp;The cumulative lines of code from all of the software files in the package procurred by the Developer.
 
-### Software Package License Query (SPLQ): A request to recieve the SPLR.
+### Software Package License Query (SPLQ): 
+&emsp; &emsp;A request to recieve the SPLR.
 
-### Software Package License Results (SPLR): The results from the Scan for Licenses process. SPLR is the Software Package itself as
-well as data stating which parts of the Software Package were found to have an OSS License.
+### Software Package License Results (SPLR): 
+&emsp; &emsp;The results from the Scan for Licenses process. SPLR is the Software Package itself aswell as data stating which parts of the <br/> &emsp; &emsp; Software Package were found to have an OSS License.
 
