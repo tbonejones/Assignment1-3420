@@ -1,6 +1,6 @@
 # DFD Dictionary
 
-### Developer: The employee who procures/compiles Software Package and, after it is checked for OSS Licenses, then modifies it for use 
+### Developer:   The employee who procures/compiles Software Package and, after it is checked for OSS Licenses, then modifies it for use 
 within the company.
 
 ### Manage Software Package for License Scanning (MSPLC): The process that accepts the Software Package from the Developer and 
