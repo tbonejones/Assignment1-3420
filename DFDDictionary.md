@@ -1,7 +1,7 @@
 # DFD Dictionary
 
 ### Developer: 
-&emsp;&emsp; The employee who procures/compiles [Software Package](https://github.com/tbonejones/Assignment1-3420/blob/master/DFDDictionary.md#software-package) and, after it is checked for OSS Licenses, then modifies it for use <br/>&emsp;&emsp;within the company.
+&emsp;&emsp; The employee who procures/compiles [Software Package](https://github.com/tbonejones/Assignment1-3420/blob/master/DFDDictionary.md#software-package) and, after it is checked for OSS Licenses, then modifies it for use <br/>&emsp;&emsp; within the company.
 
 ### Manage Software Package for License Scanning (MSPLC): 
 &emsp;&emsp; The process that accepts the [Software Package](https://github.com/tbonejones/Assignment1-3420/blob/master/DFDDictionary.md#software-package) from the Developer and forwards it to the [Scan for Licences](https://github.com/tbonejones/Assignment1-3420/blob/master/DFDDictionary.md#scan-for-licenses)process. This <br/>&emsp;&emsp; process also receives the [SPLR](https://github.com/tbonejones/Assignment1-3420/blob/master/DFDDictionary.md#software-package-license-results-splr) and sends those results to the OSSFS Database for storage.
