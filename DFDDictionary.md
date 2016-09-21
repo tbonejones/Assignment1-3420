@@ -1,7 +1,5 @@
 # DFD Dictionary
 
-  + a long line to see how it wraps baThe results of a RSPN search on the NIST Vulnerabilities DB. These results are all of the exploitable security
-  + 
 ### Developer: 
 &emsp;&emsp; The employee who procures/compiles Software Package and, after it is checked for OSS Licenses, then modifies it for use <br/>&emsp;&emsp; within the company.
 
