@@ -12,6 +12,6 @@ Relevant file/package information in the OSS Licensing and Vulnerabilities Datab
 ### Main Success Scenario:
 Manager receives accurate license and vulnerability information for the requested project packages
 ### Failed End Conditions:
-Manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+Manager receives inaccurate or invalid license and vulnerability information for the requested Software Packages
 ### Trigger:
 Manager identifies project information to which license and vulnerability information is provided
