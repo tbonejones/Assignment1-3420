@@ -5,7 +5,7 @@ Manager
 ### Goal in Context:
 The Manager is able to determine License and vulnerability information from provided project information
 ### Stakeholders:
-Manager: to receive clear and relevant project information
+Manager: to receive clear and relevant project information<br/>
 Developer: to provide relevant file/package level information
 ### Preconditions:
 Relevant file/package information in the OSS Licensing and Vulnerabilities Database
