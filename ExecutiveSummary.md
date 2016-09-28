@@ -9,5 +9,6 @@ A Developer submits a Software Package to a process which interacts with other p
 vulnerability information as well as both store that information in a database and send it to the Developer. Developers and Managers
 can use a process to submit queries to that database at any time in order to view the licensing and vulnerability information for
 Software Projects, which are Software Packages bundled together for a project. The Developer and Manager can also access the company's
-software policies through a query process in order to compare the licensing and vulnerabilities information with the company's policy
-on acceptable licensing and vulnerabilities for software used for various company purposes.
+software policies through a query process. The software's licensing and vulnerabilities information can then be compared with the
+company's policy regarding acceptable software licenses and vulnerability levels for software used in a specific way (i.e. internally, 
+externally, commercial release, etc.).
