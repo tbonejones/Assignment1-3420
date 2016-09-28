@@ -8,7 +8,7 @@ Developer
 A developer is able to receive a document showing all of the Known Vulnerabilities for a submitted Software Package and the Known Vulnerabilities information is also saved to the OSS Licensing and Vulnerabilities Data Store.
 
 ### Stakeholders
-Developer: to receive a document showing all of the Known Vulnerabilities for a submitted Software Package.
+Developer: to receive a document showing all of the Known Vulnerabilities for a submitted Software Package.<br/>
 Manager: to have the Known Vulnerabilities stored in the OSS Licensing and Vulnerabilities Data Store in case he/she ever wants to browse them.
 
 ### Preconditions
