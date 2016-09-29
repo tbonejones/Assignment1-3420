@@ -13,4 +13,4 @@ software policies through a query process. The software's licensing and vulnerab
 company's policy regarding acceptable software licenses and vulnerability levels for software used in a specific way (i.e. internally, 
 externally, commercial release, etc.).
 
-(Finally, the manager can create and update policy...)
+Finally, the manager can create a new policy, delete an existing policy, or modify an existing policy in order to update it.
