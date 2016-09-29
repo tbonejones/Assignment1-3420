@@ -1,27 +1,30 @@
 ### Title
-Send Refined Software Package Name to NIST Database
+Query Policy for Reading, Modification, Deletion, or Creation
 
 ### Primary Actor
-Developer
+Manager or Developer
 
 ### Goal in Context
-A developer is able to receive a document showing all of the Known Vulnerabilities for a submitted Software Package and the Known Vulnerabilities information is also saved to the OSS Licensing and Vulnerabilities Data Store.
+A Developer or Manager is able to request and receive a readable copy of a policy from the Software Package License and Vulnerability Policy Data Store<br/>
+A Manager is also able to delete a policy from the data store, modify a policy and have the updated version saved in the data store, or add a new policy to the data store
 
 ### Stakeholders
-Developer: to receive a document showing all of the Known Vulnerabilities for a submitted Software Package.<br/>
-Manager: to have the Known Vulnerabilities stored in the OSS Licensing and Vulnerabilities Data Store in case he/she ever wants to browse them.
+Developer: to request and receive a readable copy of a policy from the Software Package License and Vulnerability Policy Data Store<br/>
+Manager: to request and receive a readable copy of a policy from the Software Package License and Vulnerability Policy Data Store or to delete a policy from the Data Store, modify a policy and have the updated version saved in the Data Store, or add a new policy to the Data Store
 
 ### Preconditions
-The Software Package has been submitted to the Manage Software Package for License and Vulnerabilities Scanning 
-process and the name has been refined before being sent to the NIST Database so that results are specific to the actual Software Package. NIST has collected all of the Known Vulnerabilities and stored them in their Database.
+The policy being requested is stored in Software Package License and Vulnerability Policy Data Store
 
 ### Main Success Scenario
-The NIST Database is accurately searched and the Known Vulnerabilities for the Software Package are returned to the developer and also saved to the OSS Licensing and Vulnerabilities Data Store.
+The Manager or Developer successfully receives a copy of the requested policy to read<br/>
+The Manager is able to successfully save a new policy or modified policy or is able to successfully delete a policy
 
 ### Failed End Conditions
-An error occurs and the Developer does not receive the Known Vulnerabilities information or it is not saved to the OSS Licensing and Vulnerabilities Data Store. A Known Vulnerability is not stored in the NIST Database and the company uses the Software Package and the vulnerability is exploited by hackers.
+An error occurs and the Manager or Developer does not receive a copy of the requested policy <br/>
+An error occurs and the Manager is unable to save a new policy or modified policy or is unable to delete a policy
 
 ### Trigger 
-Developer submits a Software Package to the Manage Software Package for License and Vulnerabilities Scanning process, which, as part of its process, sends a Refined Software Package Name to the Send Refined Software Package Name to NIST Database process.
+Developer or Manager submit a request to read a policy
+Manager submits a new policy to be added to the data store, requests a policy for modification, or requests a policy for deletion
 
 
