@@ -5,7 +5,7 @@ licensing or choose not to use the software. They also want to be aware of any k
 In addition, they want to be able to compare the licensing and vulnerabilities in open sourse software with their policies to determine whether 
 or not to use the software.
 
-Particlar to the system, a developer submits a software package to a process which interacts with other processes to scan the software package for licensing and
+Particular to the system, a developer submits a software package to a process which interacts with other processes to scan the software package for licensing and
 vulnerability information as well as both store that information in a database and send it to the developer. Developers and managers
 can use a process to submit queries to that database at any time in order to view the licensing and vulnerability information for
 software projects. The developer and manager can also access the company's
