@@ -3,7 +3,7 @@ Query for Software Project License and Vulnerabilities Information
 ### Primary Actor:
 Manager
 ### Goal in Context:
-The Manager is able to determine License and vulnerability information from a provided Software Project
+The Manager is able to determine license and vulnerability information from a provided Software Project
 ### Stakeholders:
 Manager: to receive clear and relevant Software Project information<br/>
 Developer: to provide relevant Software Package information
