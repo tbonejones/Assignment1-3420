@@ -1,6 +1,9 @@
 ### Title
 Query Policy for Reading, Modification, Deletion, or Creation
 
+(I think that this use case is covered in Use Case #2. This third use case should just focus on the policy stuff). 
+(I don't think that you have a dedicated path in your DFD that will actually do only this). 
+
 ### Primary Actor
 Manager or Developer
 
