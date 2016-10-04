@@ -38,14 +38,23 @@ The process that interfaces with the NIST Vulnerabilites Database in order to su
 
 ## Data Flows
 
+#### Delete Policy Query:
+A request to delete an existing policy from the SPLVP Data Store.
+
 #### Known Vulnerabilities:
 The results of a RSPN search on the NIST Vulnerabilities Data Store. These results are all of the exploitable security flaws/bugs that are known publicly and associated with the Software Package.
 
-#### Policy Query:
-A query sent to the QPFRMDC.
+#### New Policy Submittal Query:
+A new policy submitted with a request to have the policy added to the SPLVP Data Store.
 
-#### Policy Query Result:
-The result received from a Policy Query.
+#### Policy Confirmation:
+A confirmation message sent to notify a Manager that their New Policy Submittal Query, Delete Policy Query, or Update Policy Query was executed successfully.
+
+#### Read Policy Query:
+A request to read a policy.
+
+#### Read Policy Query Result:
+A readable copy of a policy.
 
 #### Refined Sofware Package Name (RSPN):
 The name of the Software Package is refined by the MSPLVS so that the NIST Vulnerabilites database will return specific enough results (i.e. specifying which version of Adobe so that results for Adobe software not in the Software Package are not returned).
@@ -61,3 +70,6 @@ A browsable document of the set of the results of all of the Software Packages t
 
 #### Software Package License Results (SPLR): 
 The results from the Scan for Licenses process. The SPLR is the Software Package itself as well as data stating which parts of the Software Package were found to have an OSS License.
+
+#### Update Policy Query:
+A modified version of an existing policy submitted with a request to have the modified version replace the existing version of the policy in the SPLVP Data Store.
