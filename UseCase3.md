@@ -5,7 +5,7 @@ Query Policy for Reading, Modification, Deletion, or Creation
 Manager or Developer
 
 ### Goal in Context
-A Developer or Manager is able to request and receive a readable copy of a policy from the Software Package License and Vulnerability Policy Data Store<br/>
+A Developer or Manager is able to request and receive a readable copy of a policy from the Software Package License and Vulnerability Policy data store<br/>
 A Manager is also able to delete a policy from the data store, modify a policy and have the updated version saved in the data store, or add a new policy to the data store
 
 ### Stakeholders
