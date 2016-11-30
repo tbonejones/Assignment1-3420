@@ -1,5 +1,5 @@
 <?php 
-$target_dir = "matt/"; 
+$target_dir = "doug/"; 
 $target_ﬁle = $target_dir . basename($_FILES["ﬁleToUpload"]["name"]); $uploadOk = 1; 
 $imageFileType = pathinfo($target_ﬁle,PATHINFO_EXTENSION); 
 // Check if image ﬁle is a actual image or fake image if(isset($_POST["submit"])) {    
